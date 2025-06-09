@@ -1,0 +1,14 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "Anthony's profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "Anthony J",
+  "license": "ISC"
+}
